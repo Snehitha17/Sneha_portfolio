@@ -1,7 +1,7 @@
 # Sneha_portfolio
 Data Science Portfolio
 
-# Project1: Amazon-Apparel-Recommendation
+# [Project 1: Amazon-Apparel-Recommendation](https://github.com/Snehitha17/Amazon-Apparel-Recommendation)
 
 Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites based on the implict data i.e when they type the title, brand, type etc produce recommendations.
 
