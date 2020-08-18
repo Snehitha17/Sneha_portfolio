@@ -18,7 +18,7 @@ To build a model that predicts the human activities such as Walking, Walking_Ups
 
 Predict the pick up density of yellow cabs at a given particular time and a location in new york city using Linear Regression, Random Forest, XGBoost, Time Series Forecasting and Fourier Transformation.
 
-Project5: Cancer Patient Diagnosis
+# Project5: Cancer Patient Diagnosis
 
 Classify the given genetic variations/mutations based on evidence from text- based clinical literature using Logistic Regression, Random Forest, TF-IDF and Feature Engineering.
 
