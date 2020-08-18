@@ -14,7 +14,7 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 
 To build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 
-# Project4: New-York-taxi-prediction
+# [Project 4: New-York-taxi-prediction](https://github.com/Snehitha17/New-York-taxi-prediction)
 
 Predict the pick up density of yellow cabs at a given particular time and a location in new york city using Linear Regression, Random Forest, XGBoost, Time Series Forecasting and Fourier Transformation.
 
