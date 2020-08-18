@@ -5,7 +5,7 @@ Data Science Portfolio
 
 Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites based on the implict data i.e when they type the title, brand, type etc produce recommendations.
 
-# Project2: Netflix-Movie-Recommendation
+# [Project 2: Netflix-Movie-Recommendation](https://github.com/Snehitha17/Netflix-Movie-Recommendation)
 
 Based on the ratings given by user recommending the movie for another user.
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
