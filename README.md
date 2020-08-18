@@ -22,6 +22,6 @@ Predict the pick up density of yellow cabs at a given particular time and a loca
 
 Classify the given genetic variations/mutations based on evidence from text- based clinical literature using Logistic Regression, Random Forest, TF-IDF and Feature Engineering.
 
-# Project6:Quora-Question-Pair-Similarity
+# [Project 6:Quora-Question-Pair-Similarity](https://github.com/Snehitha17/Quora-question-pair-similarity)
 
 Identify which questions asked on Quora are duplicates of questions that have already been asked. This could be useful to instantly provide answers to questions that have already been answered. We are tasked with predicting whether a pair of questions are duplicates or not. Techniques used : Logistic Regression, Linear SVM and XGBoost.
