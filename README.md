@@ -12,7 +12,8 @@ Based on the ratings given by user recommending the movie for another user.
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
 # [Project 3: Human Activity recognition](https://github.com/Snehitha17/human-activity-recognition)
-
+<img
+src='https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/675/normal_Human_activity_recognition.jpg?v=1541506221'>
 To build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 
 # [Project 4: New-York-taxi-prediction](https://github.com/Snehitha17/New-York-taxi-prediction)
