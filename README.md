@@ -7,7 +7,7 @@ Build a recommendation engine which suggests similar products (apparel) to the g
 
 # [Project 2: Netflix-Movie-Recommendation](https://github.com/Snehitha17/Netflix-Movie-Recommendation)
 <img
-src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fa4ankan%2FNetFlix-Movie-Recommendation&psig=AOvVaw2_rFTrCZHu7-BMhOb46Cfx&ust=1597932408027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjKiJ-4p-sCFQAAAAAdAAAAABAD'>
+src='https://user-images.githubusercontent.com/42392773/52229643-67723e80-28db-11e9-8ef8-4ddd945a34cd.jpg'>
 Based on the ratings given by user recommending the movie for another user.
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
