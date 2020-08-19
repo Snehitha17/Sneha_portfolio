@@ -17,7 +17,8 @@ src='https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_im
 To build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 
 # [Project 4: New-York-taxi-prediction](https://github.com/Snehitha17/New-York-taxi-prediction)
-
+<img
+src='https://miro.medium.com/max/2560/1*0Ov3bD5xNxszuJTBYJjX4w.jpeg'>
 Predict the pick up density of yellow cabs at a given particular time and a location in new york city using Linear Regression, Random Forest, XGBoost, Time Series Forecasting and Fourier Transformation.
 
 # [Project 5: Cancer Patient Diagnosis](https://github.com/Snehitha17/Cancer-Diagnosis)
