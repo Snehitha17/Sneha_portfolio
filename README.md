@@ -2,7 +2,7 @@
 Data Science Portfolio
 
 # [Project 1: Amazon-Apparel-Recommendation](https://github.com/Snehitha17/Amazon-Apparel-Recommendation)
-
+<img src='https://camo.githubusercontent.com/f5d3cfebee0e073792efa7a704539cf04c49eda0/68747470733a2f2f327861777830676d756479343731706f3532376c627863642d7770656e67696e652e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f616d617a6f6e66617368696f6e2e6a7067'>
 Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites based on the implict data i.e when they type the title, brand, type etc produce recommendations.
 
 # [Project 2: Netflix-Movie-Recommendation](https://github.com/Snehitha17/Netflix-Movie-Recommendation)
